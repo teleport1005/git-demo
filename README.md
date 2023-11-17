@@ -1,4 +1,4 @@
-# Git Demo
+# Git Demo 서버에서 수정한 제목
 
 Github 연습 (아직 어렵다.. ㅠ)
 
